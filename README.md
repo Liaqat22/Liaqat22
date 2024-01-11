@@ -1,5 +1,7 @@
 ## 👋 &nbsp;Hey there! I'm Liaqat Ali
 
+### 💡 &nbsp; Checkout My [Portfolio](https://liaqatali-portfoliowebsite-reactapp.netlify.app/)
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
@@ -33,9 +35,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 
 
-### ⚙️ &nbsp;GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=sobankhan12&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  
+
 
 
 
