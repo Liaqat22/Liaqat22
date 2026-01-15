@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Liaqat Ali
 
-### 💡 &nbsp; Checkout My [Portfolio](https://liaqatali-portfoliowebsite-reactapp.netlify.app/)
+### 💡 &nbsp; Checkout My [Portfolio](https://liaqat-ali.vercel.app/)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
