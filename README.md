@@ -65,56 +65,6 @@ Frontend / Next.js Developer with **1+ year of professional experience**, focuse
 
 ---
 
-## 📌 Featured Projects
-
-### 🚀 Modern Admin Dashboard
-**Tech:** Next.js, TypeScript, Redux Toolkit, Tailwind CSS  
-- Role-based authentication  
-- Optimized API state with RTK Query  
-- Fully responsive & scalable UI  
-
-📦 Repo: https://github.com/LiaqatAli/your-repo
-
----
-
-### 🛒 E-Commerce Web App
-**Tech:** React, Firebase, REST APIs  
-- Secure authentication  
-- Real-time product management  
-- Performance-optimized UI  
-
-📦 Repo: https://github.com/LiaqatAli/your-repo
-
----
-
-### 🤖 AI Voice Agent
-**Tech:** Next.js, TypeScript, Whisper AI, AWS  
-- Real-time voice interaction  
-- Server-side transcription  
-- Clean UX without audio players  
-
-📦 Repo: https://github.com/LiaqatAli/your-repo
-
----
-
-## 🧠 Currently Learning
-
-- Advanced **Next.js (App Router & Server Actions)**
-- Frontend **System Design**
-- Performance profiling & optimization
-- AI integration in web apps
-
----
-
-## 🎯 2026 Goals
-
-- Master advanced Next.js & TypeScript
-- Build production-grade SaaS applications
-- Contribute to open-source projects
-- Secure a strong Frontend / React role
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
