@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Liaqat Ali</h1>
 
+<h3 align="center">Frontend / Next.js Developer • React • TypeScript • Performance-Driven UI</h3>
+
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Frontend+%2F+Next.js+Developer;React+%7C+TypeScript+%7C+Redux;Building+Modern%2C+Scalable+Web+Apps;Clean+UI+%26+Performance+Focused"
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Frontend+%2F+Next.js+Developer;React+%7C+TypeScript+%7C+Redux;Building+Modern%2C+Scalable+Web+Apps;Clean+UI+%26+Performance+Focused"
   />
 </p>
 
@@ -22,19 +24,20 @@
 
 ## 👨🏻‍💻 About Me
 
-Frontend / Next.js Developer with **1+ year of professional experience** building **high-performance, scalable, and responsive web applications**.
+I’m a **Frontend / Next.js Developer with 1+ year of professional experience**, focused on building **fast, scalable, and maintainable web applications**.
 
 - 🚀 Specialized in **React, Next.js, TypeScript, Redux**
-- 🎯 Strong focus on **clean UI, performance optimization & UX**
-- 🔌 Experienced in **REST APIs, Firebase & GraphQL**
-- 🤝 Open to **frontend roles, collaborations & freelance projects**
-- 📄 View my **[Resume](https://drive.google.com/file/d/1VsdOQReU82g3hSvYWC-6h9GD4EXq8oj1/view?usp=sharing)**
+- 🎯 Strong focus on **clean UI, UX & performance optimization**
+- 🔌 Experienced with **REST APIs, Firebase & GraphQL**
+- 🧠 Writing **reusable, scalable, and clean code**
+- 🤝 Open to **frontend roles, collaborations & freelance work**
+- 📄 View my **[Resume](https://drive.google.com/file/d/1VsdOQReU82g3hSvYWC-6h9GD4EXq8oj1/view)**
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+### 🚀 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/React-111111?style=flat&logo=react)
@@ -42,17 +45,17 @@ Frontend / Next.js Developer with **1+ year of professional experience** buildin
 ![Redux](https://img.shields.io/badge/Redux-111111?style=flat&logo=redux&logoColor=764ABC)
 ![Gatsby](https://img.shields.io/badge/Gatsby-111111?style=flat&logo=gatsby)
 
-### Backend & APIs
+### 🔗 Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js)
 ![GraphQL](https://img.shields.io/badge/GraphQL-111111?style=flat&logo=graphql&logoColor=E10098)
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat&logo=firebase)
 
-### Styling & UI
+### 🎨 Styling & UI
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=flat&logo=bootstrap)
 
-### Tools
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -62,13 +65,16 @@ Frontend / Next.js Developer with **1+ year of professional experience** buildin
 
 ---
 
+## ⚙️ GitHub Stats & Activity
 
-### ⚙️ &nbsp;GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=LiaqatAli&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LiaqatAli&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiaqatAli&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaqat-ali&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiaqatAli&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
 
 ---
 
