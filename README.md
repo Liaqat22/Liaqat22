@@ -24,7 +24,7 @@
 
 ## 👨🏻‍💻 About Me
 
-I’m a **Frontend / Next.js Developer with 1+ year of professional experience**, focused on building **fast, scalable, and maintainable web applications**.
+Frontend / Next.js Developer with **1+ year of professional experience**, focused on building **fast, scalable, and maintainable web applications**.
 
 - 🚀 Specialized in **React, Next.js, TypeScript, Redux**
 - 🎯 Strong focus on **clean UI, UX & performance optimization**
@@ -65,16 +65,67 @@ I’m a **Frontend / Next.js Developer with 1+ year of professional experience**
 
 ---
 
-## ⚙️ GitHub Stats & Activity
+## 📌 Featured Projects
+
+### 🚀 Modern Admin Dashboard
+**Tech:** Next.js, TypeScript, Redux Toolkit, Tailwind CSS  
+- Role-based authentication  
+- Optimized API state with RTK Query  
+- Fully responsive & scalable UI  
+
+📦 Repo: https://github.com/LiaqatAli/your-repo
+
+---
+
+### 🛒 E-Commerce Web App
+**Tech:** React, Firebase, REST APIs  
+- Secure authentication  
+- Real-time product management  
+- Performance-optimized UI  
+
+📦 Repo: https://github.com/LiaqatAli/your-repo
+
+---
+
+### 🤖 AI Voice Agent
+**Tech:** Next.js, TypeScript, Whisper AI, AWS  
+- Real-time voice interaction  
+- Server-side transcription  
+- Clean UX without audio players  
+
+📦 Repo: https://github.com/LiaqatAli/your-repo
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced **Next.js (App Router & Server Actions)**
+- Frontend **System Design**
+- Performance profiling & optimization
+- AI integration in web apps
+
+---
+
+## 🎯 2026 Goals
+
+- Master advanced Next.js & TypeScript
+- Build production-grade SaaS applications
+- Contribute to open-source projects
+- Secure a strong Frontend / React role
+
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LiaqatAli&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiaqatAli&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LiaqatAli&theme=darkhub&no-frame=true&margin-w=15&row=1" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiaqatAli&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
+---
+
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/LiaqatAli/LiaqatAli/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -92,5 +143,6 @@ I’m a **Frontend / Next.js Developer with 1+ year of professional experience**
 ---
 
 <p align="center">
-  <i>Focused on building fast, scalable & user-centric web experiences.</i>
+  <b>Building clean, scalable & performance-focused web applications.</b><br/>
+  <i>React • Next.js • TypeScript</i>
 </p>
