@@ -64,7 +64,7 @@ Frontend / Next.js Developer with **1+ year of professional experience** buildin
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=sobankhan12&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=LiaqatAli&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaqat-ali&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
