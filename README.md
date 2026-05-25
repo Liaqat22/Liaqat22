@@ -24,7 +24,7 @@
 
 ## 👨🏻‍💻 About Me
 
-Frontend / Next.js Developer with **1+ year of professional experience**, focused on building **fast, scalable, and maintainable web applications**.
+Frontend / Next.js Developer with **2+ year of professional experience**, focused on building **fast, scalable, and maintainable web applications**.
 
 - 🚀 Specialized in **React, Next.js, TypeScript, Redux**
 - 🎯 Strong focus on **clean UI, UX & performance optimization**
